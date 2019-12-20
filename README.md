@@ -2,7 +2,7 @@
 
 <img src="assets/4116.jpg?raw=true" width="500px"><br/>
 <img src="assets/4465.jpg?raw=true" width="500px"><br/>
-<img src="assets/4444.jpg?raw=true" width="500px"><br/>
+<img src="assets/4444-1.jpg?raw=true" width="500px"><br/>
 
 
 PCB files for the Adafruit PyPortal - CircuitPython Powered Internet Display and PyPortal Pynt. Format is EagleCAD schematic and board layout
